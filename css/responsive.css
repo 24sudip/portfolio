@@ -1,0 +1,148 @@
+@media (max-width: 575.98px) {
+    .menu_bg button{
+        border: 2px solid #fff;
+    }
+    .menu_bg button i{
+        color: #fff !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .menu_bg ul li a{
+        padding: 20px 20px !important;
+    }
+    .res_one{
+        display: none;
+    }
+    .res_two{
+        display: none;
+    }
+    .contact_text{
+        text-align: center;
+    }
+    .market_item img{
+        width: 90%;
+    }
+    .prev{
+        display: none !important;
+    }
+    .next{
+        display: none !important;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menu_bg button{
+        border: 2px solid #fff;
+    }
+    .menu_bg button i{
+        color: #fff !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .menu_bg ul li a{
+        padding: 20px 20px !important;
+    }
+    .res_one{
+        display: none;
+    }
+    .res_two{
+        display: none;
+    }
+    .market_item img{
+        width: 90%;
+    }
+    .prev{
+        display: none !important;
+    }
+    .next{
+        display: none !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu_bg button{
+        border: 2px solid #fff;
+    }
+    .menu_bg button i{
+        color: #fff !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .menu_bg ul li a{
+        padding: 20px 20px !important;
+    }
+    .res_one{
+        display: none;
+    }
+    .res_two{
+        display: none;
+    }
+    .market_item img{
+        width: 90%;
+    }
+    .prev{
+        display: none !important;
+    }
+    .next{
+        display: none !important;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .market_item img{
+        width: 90%;
+    }
+    .res_one{
+        top: 173px;
+    }
+    .res_two{
+        top: 173px;
+        right: 31%;
+    }
+    .prev{
+        left: 2%;
+    }
+    .next{
+        right: 2%;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .market_item img{
+        width: 90%;
+    }
+    .res_two{
+        right: 33%;
+    }
+    .prev{
+        left: 2%;
+    }
+    .next{
+        right: 2%;
+    }
+}
+@media (min-width: 1400px) {
+    .market_item img{
+        width: 90%;
+    }
+    .res_one{
+        left: 10%;
+    }
+    .res_two{
+        right: 35%;
+    }
+    .prev{
+        left: 3%;
+    }
+    .next{
+        right: 3%;
+    }
+}
