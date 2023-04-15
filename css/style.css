@@ -60,6 +60,7 @@ body{
     color: #222 !important;
     margin: 0 5px;
     text-transform: capitalize;
+    transition: all linear 0.5s;
 }
 .menu_bg ul li a.active{
     color: #fff !important;
@@ -111,6 +112,7 @@ body{
     color: #fff;
     border: 2px solid #fff;
     text-transform: capitalize;
+    transition: all linear 0.5s;
 }
 .ban_btn a:hover{
     background-color: #fec600;
